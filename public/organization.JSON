@@ -1,0 +1,398 @@
+[
+    {
+      "_id": "614fb12a0a7ca356d32a6048",
+      "candidate": "Nadim Mahmud",
+      "expertise": [
+        {
+         
+          "languages": "JavaScript"
+        },
+        {
+             
+          "languages": "PHP"
+        },
+        {
+               
+          "languages": "MySQL"
+        }
+      ],
+      "experience": 2,
+      "expected_salary": 1300,
+      "previous_company": "Brain-Station LTD.",
+      "bio": "An articulate, confident person who relishes challenges and working under pressure. My greatest strengths are my research, communication and writing skills' am a highly competent IT professional with a proven track record in designing websites, web-developing and managing databases. I have strong technical skills as well as excellent interpersonal skills, enabling me to interact with a wide range of clients. I am eager to be challenged in order to grow and further improve my IT skills. My greatest passion is in life is using my technical know-how to benefit other people and organizations.",
+      "registered": "2015-08-23T01:21:46 -06:00",
+      "email": "nadim.bdbdbd@gmail.com",
+      "phone": "+880 (186) 95-10882",
+      "picture": "https://randomuser.me/api/portraits/men/1.jpg"    
+    },
+    {
+      "_id": "278fb12aeb456586025c73ea6",
+      "candidate": "Latonya Copeland",
+      "expertise": [
+        {
+         
+          "languages": "HTML"
+        },
+        {
+             
+          "languages": "CSS"
+        },
+        {
+               
+          "languages": "C++"
+        }
+      ],
+      "experience": 4,
+      "expected_salary": 2000,
+      "previous_company": "ZOID",
+      "bio": "A new developer. Developed 10+ native Java applications per year with integrated BI tools. Beat deadlines for jobs by 15% on average.",
+      "registered": "2014-06-13T05:50:18 -06:00",
+      "email": "tanishabender@zoid.com",
+      "phone": "+8 (874) 478-3064",
+      "picture": "https://randomuser.me/api/portraits/men/2.jpg"
+      
+    },
+    {
+      "_id": "792fb12awe79e51b8f353675",
+      "candidate": "Ashlee Sawyer",
+      "expertise": [
+        {
+         
+          "languages": "C"
+        },
+        {
+             
+          "languages": "C#"
+        },
+        {
+               
+          "languages": "Java"
+        }
+      ],
+      "experience": 3,
+      "expected_salary": 3700,
+      "previous_company": "INTERODEO",
+      "bio": "A web designer and front-end web developer with over 2 years of professional experience in the design industry.",
+      "registered": "2021-01-17T04:41:32 -06:00",
+      "email": "nellieweaver@interodeo.com",
+      "phone": "+8 (946) 441-3358",
+      "picture": "https://randomuser.me/api/portraits/women/1.jpg"
+    },
+    {
+      "_id": "614fb12a0ba8e03c1ca7facb",
+      "candidate": "Lorraine Buchanan",
+      "expertise": [
+        {
+         
+          "languages": "C#"
+        },
+        {
+             
+          "languages": "JavaScript"
+        },
+        {
+               
+          "languages": "MongoDB"
+        }
+      ],
+      "experience": 5,
+      "expected_salary": 2500,
+      "previous_company": "ZAJ",
+      "bio": "Front End Web Developer Web Performance Lover.",
+      "registered": "2019-12-21T01:10:29 -06:00",
+      "email": "gailcoleman@zaj.com",
+      "phone": "+8 (907) 551-2508",
+      "picture": "https://randomuser.me/api/portraits/men/3.jpg"
+
+    },
+    {
+      "_id": "614fb12a9f05901349aaab14",
+      "candidate": "Noelle Hartman",
+      "expertise": [
+        {
+         
+          "languages": "PHP"
+        },
+        {
+             
+          "languages": "HTML"
+        },
+        {
+               
+          "languages": "CSS"
+        }
+      ],
+      "experience": 3,
+      "expected_salary": 2200,
+      "previous_company": "SULTRAXIN",
+      "bio": "Web System Developer en Web Developer.",
+      "registered": "2015-05-24T06:50:09 -06:00",
+      "email": "joleneaguilar@sultraxin.com",
+      "phone": "+8 (948) 414-3765",
+      "picture": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+      "_id": "614fb12af80265db429ef146",
+      "candidate": "Wolfe Hammond",
+      "expertise": [
+        {
+         
+          "languages": "JavaScript"
+        },
+        {
+             
+          "languages": "C#"
+        },
+        {
+               
+          "languages": "Firebase"
+        }
+      ],
+      "experience": 6,
+      "expected_salary": 2700,
+      "previous_company": "ISOLOGIA",
+      "bio": "An articulate, confident person who relishes challenges and working under pressure. My greatest strengths are my research, communication and writing skills' am a highly competent IT professional with a proven track record in designing websites, web-developing and managing databases. I have strong technical skills as well as excellent interpersonal skills, enabling me to interact with a wide range of clients. I am eager to be challenged in order to grow and further improve my IT skills. My greatest passion is in life is using my technical know-how to benefit other people and organizations.",
+      "registered": "2014-02-03T02:09:20 -06:00",
+      "email": "cassandrahendricks@isologia.com",
+      "phone": "+8 (884) 469-3994",
+      "picture":"https://randomuser.me/api/portraits/men/5.jpg"
+
+    },
+    {
+      "_id": "614fb12ae302c1680814f0cc",
+      "candidate": "Spears Chapman",
+      "expertise": [
+        {
+         
+          "languages": "MongoDB"
+        },
+        {
+             
+          "languages": "Bigdata"
+        },
+        {
+               
+          "languages": "MSSQL Server"
+        }
+      ],
+      "experience": 8,
+      "expected_salary": 2200,
+      "previous_company": "PLEXIA",
+      "bio": "A senior web developer, has 5 years of experiences in various field of programming and problem solving.",
+      "registered": "2017-01-20T07:45:22 -06:00",
+      "email": "sloanbeach@plexia.com",
+      "phone": "+8 (908) 400-3741",
+      "picture":"https://randomuser.me/api/portraits/men/6.jpg"
+    },
+    {
+      "_id": "614fb12aadb7e8e128d76975",
+      "candidate": "Scott Gill",
+      "expertise": [
+        {
+         
+          "languages": "PHP"
+        },
+        {
+             
+          "languages": "JavaScript"
+        },
+        {
+               
+          "languages": "Firebase"
+        }
+      ],
+      "experience": 1,
+      "expected_salary": 1200,
+      "previous_company": "EXOTERIC",
+      "bio": "",
+      "registered": "2014-04-30T01:48:49 -06:00",
+      "email": "jerrymcmahon@exoteric.com",
+      "phone": "+8 (822) 575-2615",
+      "picture": "https://randomuser.me/api/portraits/men/7.jpg"
+    },
+    {
+      "_id": "614fb12a49c0d0da9fef2c92",
+      "candidate": "Karina Nolan",
+      "expertise": [
+        {
+         
+          "languages": "Latex"
+        },
+        {
+             
+          "languages": "C"
+        },
+        {
+               
+          "languages": "Python"
+        }
+      ],
+      "experience": 7,
+      "expected_salary": 3900,
+      "previous_company": "PYRAMIA",
+      "bio": "A Junior developer. Has expertise in Back-End. Knows Laravel, PHP, C# and other languages and framework as well.",
+      "registered": "2016-01-29T02:45:42 -06:00",
+      "email": "autumnowen@pyramia.com",
+      "phone": "+8 (861) 568-2934",
+      "picture": "https://randomuser.me/api/portraits/women/2.jpg"
+    },
+    {
+      "_id": "614fb12ad62d5b8e6b08d45b",
+      "candidate": "Constance Sargent",
+      "expertise": [
+        {
+         
+          "languages": "Python"
+        },
+        {
+             
+          "languages": "C#"
+        },
+        {
+               
+          "languages": "JavaScript"
+        }
+      ],
+      "experience": 3,
+      "expected_salary": 2100,
+      "previous_company": "SLAX",
+      "bio": "Front End Web Developer Web Performance Lover.",
+      "registered": "2021-04-20T04:11:03 -06:00",
+      "email": "mathewswhitley@slax.com",
+      "phone": "+8 (909) 531-3926",
+      "picture": "https://randomuser.me/api/portraits/men/8.jpg"
+    },
+    {
+      "_id": "614fb12a8da0d43538c9e56f",
+      "candidate": "Roberta Walter",
+      "expertise": [
+        {
+         
+          "languages": "JavaScript"
+        },
+        {
+             
+          "languages": "Python"
+        },
+        {
+               
+          "languages": "HTML"
+        }
+      ],
+      "experience": 2,
+      "expected_salary": 1100,
+      "previous_company": "HOMETOWN",
+      "bio": "A new developer. Developed 10+ native Java applications per year with integrated BI tools. Beat deadlines for jobs by 15% on average.",
+      "registered": "2016-07-20T09:37:52 -06:00",
+      "email": "latashacole@hometown.com",
+      "phone": "+8 (935) 422-2128",
+      "picture": "https://randomuser.me/api/portraits/men/9.jpg"
+    },
+    {
+      "_id": "614fb12ac7bd9784a81e4178",
+      "candidate": "Mariana Mason",
+      "expertise": [
+        {
+         
+          "languages": "JavaScript"
+        },
+        {
+             
+          "languages": "C"
+        },
+        {
+               
+          "languages": "C++"
+        }
+      ],
+      "experience": 2,
+      "expected_salary": 1700,
+      "previous_company": "MALATHION",
+      "bio": "Passionate tech mind with 15 years of experience working as a computer programmer. Capable of working with a variety of technology and software solutions, and managing databases. Valuable team member who has experience diagnosing problems and developing solutions. Extensive expertise in networking systems and working with mainframe computers. Talented leader with unique ideas and a history of successful contributions in the field.",
+      "registered": "2017-03-13T12:40:42 -06:00",
+      "email": "bridgessanford@malathion.com",
+      "phone": "+8 (863) 472-2680",
+      "picture":"https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+      "_id": "614fb12ab643a4f5bc0eeaeb",
+      "candidate": "Nelda Melton",
+      "expertise": [
+        {
+         
+          "languages": "C++"
+        },
+        {
+             
+          "languages": "C#"
+        },
+        {
+               
+          "languages": "JavaScript"
+        }
+      ],
+      "experience": 4,
+      "expected_salary": 1400,
+      "previous_company": "MAKINGWAY",
+      "bio": "Web System Developer en Web Developer.",
+      "registered": "2021-04-10T09:41:36 -06:00",
+      "email": "elizahatfield@makingway.com",
+      "phone": "+8 (996) 516-3093",
+      "picture": "https://randomuser.me/api/portraits/men/10.jpg"
+    },
+    {
+      "_id": "614fb12a401b5ab9d511b62c",
+      "candidate": "Emma Sharp",
+      "expertise": [
+        {
+         
+          "languages": "Python"
+        },
+        {
+             
+          "languages": "HTML"
+        },
+        {
+               
+          "languages": "CSS"
+        }
+      ],
+      "experience": 7,
+      "expected_salary": 1500,
+      "previous_company": "SUREPLEX",
+      "bio": "Web developer, social media manager, editor, writer, dj",
+      "registered": "2016-12-25T03:20:22 -06:00",
+      "email": "irwinmeadows@sureplex.com",
+      "phone": "+8 (970) 568-3949",
+      "picture":"https://randomuser.me/api/portraits/women/4.jpg"
+    },
+    {
+      "_id": "614fb12a50643e5e61d4f67c",
+      "candidate": "Barnett Hughes",
+      "expertise": [
+        {
+         
+          "languages": "C#"
+        },
+        {
+             
+          "languages": "MSSQL Server"
+        },
+        {
+               
+          "languages": "Flutter"
+        }
+      ],
+      "experience": 2,
+      "expected_salary": 3700,
+      "previous_company": "KLUGGER",
+      "bio": "Innovative tech mind with 15 years of experience working as a computer programmer. Capable of working with a variety of technology and software solutions, and managing databases. Valuable team member who has experience diagnosing problems and developing solutions. Extensive expertise in networking systems and working with mainframe computers. Talented leader with unique ideas and a history of successful contributions in the field.",
+      "registered": "2016-09-28T01:57:41 -06:00",
+      "email": "nanettesutton@klugger.com",
+      "phone": "+8 (996) 593-2836",
+      "picture":"https://randomuser.me/api/portraits/men/11.jpg"
+    }
+    
+    
+    
+  ]
