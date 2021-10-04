@@ -14,12 +14,12 @@ const Items = (props) => {
                                 <img src={picture} alt="" />
                             </div>
                             <div>
-                            <h5>Techer name: {candidate}</h5>
+                            <h5>Name: {candidate}</h5>
                             <p><small>Course: {expertise[0].languages}, {expertise[1].languages}, {expertise[2].languages}</small></p>
                              <p><small>Previous Teching center: {previous_company}</small></p>
                             <p><small>Email :{email}</small></p>
                             <p>Call: {phone}</p>
-                            <button className="btn btn-success">Contact Us</button>
+                            <button className="btn btn-success">Contact Me</button>
                             </div>
                  </div>   
         </div>

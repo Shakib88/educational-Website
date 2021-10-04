@@ -2,42 +2,37 @@
     {
       "id": 1,
       "name": "JavaScript Course",
-      "description": "Best JavaScript course for both beginners and experienced web developers that are worthy of your time..",
       "price": "$50",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT8piuB5o7Q0gmliiLlxBpMeZdNxKqq27u4A&usqp=CAU"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_iddOhw4W0at2Rse5eH3BT4JDftMx5WLJQA&usqp=CAU"
     },
+    
     {
       "id": 2,
+      "name": "Matlab Course", 
+      "price": "$50",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZq_MqVi46BroH_oCJIVKRZUrOQooy6L-S6g&usqp=CAU"
+    },
+    {
+      "id": 3,
       "name": "Python Course",
-      "description": "Learn to Program and Analyze Data with Python. Develop programs to gather, clean, analyze, and visualize data..",
       "price": "$50",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREi7SdLgtDnZEptH3tMRh82HmuD9INb5GQLMAiv5hXh0MYCItenzkoVZNMAcpEPeXVb8M&usqp=CAU"
     },
     {
-      "id": 3,
-      "name": "Java Course",
-      "description": "Master your language with lessons, quizzes, and projects designed for real-life scenarios. Create portfolio projects",
-      "price": "$50",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgVEeSQ7drFf7rSNKXRaet72pD9vgnZqqwRw&usqp=CAU"
-    },
-    {
       "id": 4,
-      "name": "c++ Course",
-      "description": "This course will start with the fundamental programming concepts before digging deeper into the more advanced C++ topics.",
+      "name": "Assembly Course",
       "price": "$50",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ-vF0RFggO0xnNvrYhdaM7RnNmgKH4pX4DZqKvgG-I2vOUk7WLyDjU81z8iP9bz0dTys&usqp=CAU"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWDL-88xZq9e7W8ogju1wmHWnpMPhjS3Y0QQ&usqp=CAU"
     },
     {
       "id": 5,
       "name": "PHP Course",
-      "description": "In this course, you'll be exposed to fundamental programming concepts in PHP. Note on Prerequisites: Some basic HTML is helpful before taking this course",
       "price": "$50",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4F8AS_6UKAw0MIVSlv1LrXMwbuyP-ZVnZN14yoFYFZHweb2I2U8gU4qcAqlFPdfs244U&usqp=CAU"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZFfOGyBHWGOMb0hXH8tqE5mFplKZb3zLGdg&usqp=CAU"
     },
     {
-      "id": 1,
+      "id": 6,
       "name": "Ruby course",
-      "description": "Is this course for you? Ruby is one of the most flexible programming languages on the planet and is a great place for any beginner to start learning.",
       "price": "$50",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS7gGFMR2tPqugtj5kNUek8uQh2vj-J-rkuA&usqp=CAU"
     }
